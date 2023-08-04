@@ -1,10 +1,9 @@
 body {
-    background-color:mediumpurple
-    
+    background-color:mediumpurple;
     .flex-container {
         display: flex;
         flex-wrap: nowrap;
-        background-color: rgb(135, 30, 255);
+        background-color: DodgerBlue;
       }
       
       .flex-container > div {
